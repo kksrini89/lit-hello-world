@@ -1,16 +1,28 @@
 {
   "name": "lit-hello-world",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Hello World Web Component using Lit Element",
+  "main": "hello-world.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "hello-world",
+    "lit-hello-world",
+    "web-component"
+  ],
+  "author": "Srinivasan K K",
   "license": "ISC",
   "devDependencies": {
     "@webcomponents/webcomponentsjs": "^2.4.3",
     "lit-element": "^2.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kksrini89/lit-hello-world.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kksrini89/lit-hello-world/issues"
+  },
+  "homepage": "https://github.com/kksrini89/lit-hello-world#readme"
 }
